@@ -5,7 +5,7 @@ This final (and longer) project will give you the opportunity to have some fun w
 build the best possible classification model on a training set to predict the (undisclosed) class labels on a given test set,
 predict the actual classification performance your model will have on the test set.
 
-#Design choices#
+# Design choices #
 The "training" set is referred here in a broad sense, that is the fraction of the dataset on which the class labels are disclosed. It is up to you to decide what to do with this labeled set and, for instance, whether you split it (once or several times, possibly recursively) into actual training versus some validation fraction. More generally, this project is intended to be open as it is the case for a real task. Only the outcome matters! Many design choices are left open and you must specify them. Here is a non-exhaustive list of things you might have to consider.
 
 Do you need to pre-process, to filter out, to normalize, etc., the available data? (look at the data,... LOOK AT THE DATA!)
